@@ -49,10 +49,10 @@ public class Menu {
 
 			if (enlaces < verficationEnlaces) {
 
-				System.out.println("Ingrese el nombre de la persona que jugará como Rick");
+				System.out.println("Ingrese el alias de la persona que jugará como Rick");
 				String rick = entry.nextLine();
 
-				System.out.println("Ingrese el nombre de la persona que jugará como Morty");
+				System.out.println("Ingrese el alias de la persona que jugará como Morty");
 				String morty = entry.nextLine();
 
 
